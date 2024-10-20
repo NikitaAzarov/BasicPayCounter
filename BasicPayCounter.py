@@ -37,7 +37,6 @@ def printReport(filePath):
 
 def main():
     if len(sys.argv) != 2:
-        print("Are you debil?\n")
         print("Use: python SalaryCounter.py <file path>")
         return
 
