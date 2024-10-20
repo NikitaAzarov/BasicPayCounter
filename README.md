@@ -2,7 +2,7 @@
 BasicPayCounter is a basic Python application designed to calculate wages based on hours worked and hourly rate. It offers a straightforward approach to payroll calculation by multiplying the number of hours worked by the hourly pay rate.
 
 # How to Use BasicPayCounter
-1. Download the release and place the BasicPayCounter.exe file in a separate folder.
+1. [Download the pre-release](https://github.com/NikitaAzarov/BasicPayCounter/releases/tag/v1.0.0-beta) and place the BasicPayCounter.exe file in a separate folder.
 ![](./gifs/first_step.gif)
 2. Create a text document where you will write all your work shifts in this format:<br>
 `YYYY-MM-DD HH:MM HH:MM`<br>
